@@ -1,0 +1,145 @@
+@media (max-width:1200px) {
+  .hero_part .hero_img img {
+    width: 70%;
+  }
+  .design_build .content h3 {
+    font-size: 2.3rem;
+  }
+}
+@media (max-width:1199px) {
+  .design_build .content h3 {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 991px) { 
+   .navbar .custom-btn {
+        margin-left: 0 !important;
+        width: 8rem;
+      }
+      .hero_part .hero_img img {
+        margin-left: 0;
+      }
+      .hero_text {
+        margin-top: 2rem;
+      }
+      .feature_img {
+        margin-top: 15rem;
+      }
+      .feature_img img {
+        width: 100% !important;
+        margin-left: -4rem !important;
+        padding-left: 1rem;
+      }
+      .features h2 {
+        font-size: 2rem;
+      }
+      .features .title-des {
+        font-size: .9rem;
+        width: 100;
+      }
+      .single_info_text p {
+        font-size: .9rem;
+      }
+      .jackpot h2 {
+        font-size: 1.5rem;
+        width: 80%;
+        line-height: 1.5;
+      }
+      .jackpot .jack_title {
+        width: 100%;
+        padding-left: 3rem;
+        font-size: .8rem;
+      }
+      .jacpot_features .jack_fea_box .jack-f-title {
+        width: 80%;
+      }
+
+      /* desing and bulid part start here  */
+      .design_build .content h3 {
+        font-size: 2rem;
+        width: 100%;
+      }
+      .design_build .content p{
+        font-size: .9rem;
+        width: 100%;
+      }
+      .design_build img {
+        width: 100%;
+      }
+      .appInfo.text-center h3 {
+        font-size: 1.4rem !important;
+      }
+      .choseAppHeadding p {
+        width: 70%;
+      }
+      .clint_slider_info {
+        margin-top: 5rem;
+      }
+}
+
+
+
+
+
+
+@media (max-width:767px) {
+  .feature_img {
+    margin-top:0rem;
+  }
+  .feature_img img {
+    margin-left: 0rem !important;
+    margin-bottom: 3rem;
+  }
+  .trusted {
+    padding-bottom: 0;
+  }
+  .jackpot_border {
+    border-left: 0px solid aqua;
+  }
+  .jackpot .jack_title {
+    width: 85%;
+    padding-left: 0rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+  }
+  .choseAppHeadding p {
+    width: 100%;
+  }
+  .choseAppHeadding h3{
+    font-size: 1.3rem !important;
+  }
+  .btn-link {
+    font-size: 1rem;
+  }
+  .extra_link a {
+    font-size: 1rem;
+    margin: 0 .5rem;
+  }
+  footer .credit {
+    font-size: 1rem;
+  }
+  .ultimate_img {
+    margin-top: 3rem;
+  }
+}
+@media (max-width:500px) {
+  .hero_part h1 {
+    font-size: 2rem;
+  }
+  .hero_part p {
+    font-size: 1rem;
+    width: 80%;
+  }
+  .jackpot .jack_title {
+    width: 90%;
+    padding-left: 0rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width:450px) {
+  .shape_ab.shape_3 {
+    display: none;
+  }
+}
